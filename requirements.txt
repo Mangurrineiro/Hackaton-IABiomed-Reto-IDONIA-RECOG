@@ -1,0 +1,7 @@
+requests>=2.31,<3
+PyJWT>=2.8,<3
+python-dotenv>=1,<2
+pydantic>=2,<3
+pypdf>=4,<7
+qrcode>=7,<9
+streamlit>=1.58,<2
