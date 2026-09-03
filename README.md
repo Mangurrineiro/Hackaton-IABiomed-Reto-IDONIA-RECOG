@@ -2,6 +2,10 @@
 
 Solución para el I Hackathon IABiomed, reto Idonia + Recog: interoperabilidad de imagen médica con Idonia y humanización del informe mediante Recog.
 
+## Memoria técnica
+
+La descripción completa de la solución, su arquitectura y su implementación está disponible en la [memoria técnica del proyecto](./memoria-tecnica.pdf).
+
 El proyecto implementa:
 
 - Fase 1: ingesta de los ficheros DICOM del estudio y del informe original en Idonia.
